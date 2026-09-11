@@ -1,5 +1,4 @@
 # RT-DETR-CST for Small Maritime Target Detection 
-# RT-DETR-CST: Infrared Ship Detection
 
 This repository contains the source code, dataset manifest, environment specification, and training artifacts supporting the paper *"[Paper Title Here]"*. It provides the materials required for independent verification of the results reported in the paper, including the architecture implementation, the exact per-epoch training record, and the dataset partitioning used for training and evaluation.
 
